@@ -1,0 +1,14 @@
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.deps.json
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.runtimeconfig.json
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.dll
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/bin/Debug/net8.0/Example001_HelloConsole.pdb
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.dll
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/refint/Example001_HelloConsole.dll
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.pdb
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/rk48/Documents/GB_KosovRS/dotnet_projects/Examples/Example001_HelloConsole/obj/Debug/net8.0/ref/Example001_HelloConsole.dll
